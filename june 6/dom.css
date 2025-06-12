@@ -1,0 +1,9 @@
+.square{
+    background-color: blue;
+    margin: auto;
+    border: dotted;
+    background-image: url(https://images.app.goo.gl/jxFfEfJMNgsBzEwt8);
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100px;
+}
