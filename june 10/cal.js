@@ -3,7 +3,7 @@ let display = document.getElementById('display');
 function appendValue(value) {
   display.value += value;
 }
-// for display
+// for display f
 function clearDisplay() {
   display.value = '';
 }
